@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://i.pinimg.com/originals/4d/89/41/4d8941f5c8689d0f0f208892e863baa9.png)]
+![MasterHead](https://i.pinimg.com/originals/4d/89/41/4d8941f5c8689d0f0f208892e863baa9.png)
 
 **KenzArz/KenzArz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
