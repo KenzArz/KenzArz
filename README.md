@@ -1,9 +1,11 @@
-### Hi there 👋
 ![MasterHead](https://i.pinimg.com/originals/4d/89/41/4d8941f5c8689d0f0f208892e863baa9.png)
 
-**KenzArz/KenzArz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h2 align="center"> Masami Yuu Desu (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)</h2>
+<h3 align="center"> NewBie Programmer <h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KenzArz&color=ff69b4&style=plastic"> </p>
+ 
+ 
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
 
