@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/4d/89/41/4d8941f5c8689d0f0f208892e863baa9.png)
+![MasterHead](https://bocchi.rocks/assets/img/page/special/cheering-illustration/illust/ph_11.jpg)
 
 <h2 align="center"> Masami Yuu Desu </br>(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)</h2>
 <h3 align="center"> NewBie Programmer <h3>
