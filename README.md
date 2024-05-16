@@ -10,7 +10,7 @@
  
 - 🔭 I’m currently working on [Character AI API](https://github.com/KenzArz/neopi)
 - 🌱 I’m currently learning **Javascript, Nodejs, MongoDB, React**
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/aldi-wijaya-098a23307/)
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/aldi-wijaya)
 
 <!----
 - 👯 I’m looking to collaborate on ...
