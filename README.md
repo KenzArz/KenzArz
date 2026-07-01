@@ -15,9 +15,11 @@
 
 An Informatics student focusing on Back-End Development and Software Engineering. Experienced in building robust RESTful APIs, managing relational and non-relational databases, and integrating IoT hardware systems with interactive web dashboards. Actively contributing to the academic community as a Software Engineer Laboratory Assistant and technical mentor.
 
-* **Current Focus:** Developing scalable back-end architectures, refining API performance, and exploring full-stack integration.
-* **Academic Milestones:** Competed and secured 2nd Place in a regional Competitive Programming Competition.
-* **Roles:** Serving as a Laboratory Assistant in the Software Engineering division and mentoring web development at Himtika Study Club.
+<p align="center">
+  <img src="./info-cards.svg" width="100%" alt="Current Focus & Education Milestones" />
+</p>
+
+- **Roles:** Serving as a Laboratory Assistant in the Software Engineering division and mentoring web development at Himtika Study Club.
 
 ---
 
@@ -30,7 +32,7 @@ An Informatics student focusing on Back-End Development and Software Engineering
   <a href="mailto:aldiwijaya201205@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.gg/https://discord.com/users/863710365288497153" target="_blank">
+  <a href="https://discord.com/users/863710365288497153" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://instagram.com/Masami.jsx" target="_blank">
@@ -42,84 +44,76 @@ An Informatics student focusing on Back-End Development and Software Engineering
 
 ### Core Specialties and Technology Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Languages</h4>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      </p>
-      <h4>Frameworks and Libraries</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-        <img src="https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=java&logoColor=white" alt="JavaFX" />
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h4>Databases and Tools</h4>
-      <p>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-        <img src="https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" />
-        <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Wokwi-000000?style=flat-square&logo=microchip&logoColor=white" alt="Wokwi" />
-      </p>
-      <h4>Design</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-      </p>
-    </td>
-  </tr>
-</table>
+**Languages**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
+
+**Frameworks and Libraries**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=java&logoColor=white" alt="JavaFX" />
+</p>
+
+**Databases and Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Wokwi-000000?style=flat-square&logo=microchip&logoColor=white" alt="Wokwi" />
+</p>
+
+**Design**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+</p>
 
 ---
 
 ### Featured Projects
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h4>Edukasild Web Platform</h4>
-      <p>An interactive digital repository for educational material built using React, Tailwind CSS, and Node.js. Optimized for intuitive UI navigation and high performance.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      </p>
-      <br />
-      <h4>IoT Smart Attendance System</h4>
-      <p>A real-time attendance simulator using ESP32, RFID-RC522, and RTC. Features an integrated live web dashboard built with PHP and MySQL displaying attendance logs and system status.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-        <img src="https://img.shields.io/badge/Wokwi-000000?style=flat-square&alt=Wokwi" alt="Wokwi" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
-      <br />
-      <h4>G-Stock POS Desktop App</h4>
-      <p>An offline-first desktop Point of Sale (POS) system built using JavaFX and JDBC to manage live product inventory, transaction workflows, and stock tracking records.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <br />
-      <img src="https://i.pinimg.com/1200x/9a/eb/56/9aeb569c2afd264945d993778e6cce28.jpg" width="90%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" alt="Aesthetic Anime Illustration" />
-    </td>
-  </tr>
-</table>
+**Edukasild Web Platform**
+An interactive digital repository for educational material built using React, Tailwind CSS, and Node.js. Optimized for intuitive UI navigation and high performance.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+</p>
+
+**IoT Smart Attendance System**
+A real-time attendance simulator using ESP32, RFID-RC522, and RTC. Features an integrated live web dashboard built with PHP and MySQL displaying attendance logs and system status.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Wokwi-000000?style=flat-square" alt="Wokwi" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+**G-Stock POS Desktop App**
+An offline-first desktop Point of Sale (POS) system built using JavaFX and JDBC to manage live product inventory, transaction workflows, and stock tracking records.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ---
 
