@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="https://bocchi.rocks/assets/img/page/special/cheering-illustration/illust/ph_11.jpg" width="100%" alt="Header Banner">
-
 # Aldi Wijaya
 
-**Back-End Developer**
+**Back-End Developer** — Node.js · Express.js · MySQL · MongoDB
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldi-wijaya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KenzArz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Masami.jsx)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aldiwijaya201205@gmail.com)
 
 </div>
 
@@ -12,67 +15,83 @@
 
 ## Tentang Saya
 
-Back-End Developer dengan fokus pada perancangan dan pengembangan RESTful API, arsitektur server, serta manajemen basis data relasional dan non-relasional. Berpengalaman membangun sistem end-to-end menggunakan Node.js, Express.js, MySQL, dan MongoDB, dengan pemahaman kuat pada clean code, struktur proyek yang terorganisir, dan version control berbasis Git.
+Mahasiswa Informatika semester 4 di Universitas Singaperbangsa Karawang (IPK 3.96/4.0), dengan fokus pada Back-End Development. Berpengalaman membangun RESTful API menggunakan Node.js dan Express.js, serta mengelola database relasional maupun non-relasional (MySQL, MongoDB). Saat ini aktif sebagai Asisten Laboratorium divisi Software Engineer dan pemateri Study Club Himtika, sambil terus mengembangkan proyek-proyek yang telah di-deploy secara publik.
 
-Selain back-end, memiliki dasar yang kuat dalam pengembangan aplikasi desktop berbasis Java, pemrograman prosedural (C++, Python), serta integrasi sistem tertanam (embedded/IoT). Terbiasa bekerja dalam tim dengan pendekatan kolaboratif dan berorientasi pada hasil.
-
-Fokus saat ini: Back-End Development dan System Design.
-Sedang memperdalam: JavaScript (Advanced), Node.js, MongoDB, React.
+**Sedang dikerjakan:** Character AI API — [lihat repo](https://github.com/KenzArz/neopi)
+**Sedang dipelajari:** JavaScript, Node.js, MongoDB, React
 
 ---
 
-## Kompetensi Teknis
+## Pengalaman & Organisasi
 
-**Bahasa Pemrograman**
+**Asisten Laboratorium — Divisi Software Engineer**
+*Universitas Singaperbangsa Karawang, 2026 – Sekarang*
+Membimbing praktikum pemrograman, menyusun modul ajar, dan membantu mahasiswa memahami konsep Software Engineering secara terstruktur.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+**Pemateri Study Club Website Developer**
+*Himtika (Himpunan Mahasiswa Informatika UNSIKA), 2026 – Sekarang*
+Mengajarkan dasar-dasar pengembangan web (HTML, CSS, JavaScript) kepada mahasiswa Informatika.
 
-**Back-End & Basis Data**
+**Anggota Divisi Peralatan IT — Bootcamp 2025**
+*Oktober 2025*
+Menyiapkan dan memelihara infrastruktur teknis pendukung acara.
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-
-**Front-End**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-
-**Perangkat & Platform**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+**Prestasi:** Juara 2 Lomba Competitive Programming SEMANTIK 9.0 (2025)
 
 ---
 
-## Statistik GitHub
+## Proyek Unggulan
+
+| Proyek | Deskripsi | Tech Stack |
+|---|---|---|
+| **EdukasiId** | Platform edukasi berbasis web sebagai repositori digital materi Pendidikan Agama, dengan UI/UX responsif. | React, JavaScript, Node.js, Tailwind CSS, Vercel |
+| **Sistem Manajemen UMKM Desa Gandoang** | Sistem manajemen UMKM desa dengan fitur pemasaran digital dan CRUD terintegrasi untuk data UMKM, produk, dan laporan. | PHP, MySQL, Bootstrap, JavaScript |
+| **G-Stock (POS Desktop)** | Aplikasi kasir desktop untuk manajemen inventaris dan transaksi real-time, dengan GUI berbasis JavaFX. | Java, MySQL, JDBC, JavaFX |
+| **Simulasi Sistem Absensi IoT RFID** | Simulasi sistem absensi berbasis ESP32 dan RFID-RC522, terintegrasi dengan dashboard web real-time bertema dark-mode. | Arduino/ESP32, Wokwi, PHP, MySQL |
+
+---
+
+## Tech Stack
+
+**Bahasa & Framework**
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=FFDD54)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Database**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KenzArz&theme=default&hide_border=true&include_all_commits=false&count_private=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=KenzArz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=KenzArz&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KenzArz&theme=default&hide_border=true&layout=compact)
-
-![Contribution Streak](https://nirzak-streak-stats.vercel.app/?user=KenzArz&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KenzArz&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
-## Pencapaian
-
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=KenzArz&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1)
-
-</div>
-
----
-
-## Kontak
-
-LinkedIn: [linkedin.com/in/aldi-wijaya](https://linkedin.com/in/aldi-wijaya)
-Email: aldiwijaya201205@gmail.com
-GitHub: [github.com/KenzArz](https://github.com/KenzArz)
-
-<div align="center">
-
-<sub>Jumlah Pengunjung: <img src="https://visitcount.itsvg.in/api?id=KenzArz&icon=0&color=12" alt="Visitor Count"></sub>
+**Terhubung dengan saya:** [LinkedIn](https://linkedin.com/in/aldi-wijaya) · [Email](mailto:aldiwijaya201205@gmail.com)
 
 </div>
