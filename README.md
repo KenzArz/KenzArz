@@ -1,4 +1,4 @@
-<img width="841" height="1870" alt="image" src="https://github.com/user-attachments/assets/5783c706-3b79-4c74-bc0a-33ebe994169d" /><p align="center">
+<p align="center">
   <img src="https://bocchi.rocks/assets/img/page/special/cheering-illustration/illust/ph_11.jpg" width="100%" alt="Header Image" />
 </p>
 
