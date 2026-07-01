@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://bocchi.rocks/assets/img/page/special/cheering-illustration/illust/ph_11.jpg" width="100%" alt="Header Banner">
+
 # Aldi Wijaya
 
 **Back-End Developer**
